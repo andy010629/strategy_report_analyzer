@@ -1,0 +1,13 @@
+__pycache__
+tempCodeRunnerFile.py
+test.py
+mt4
+mt4_raw_report
+report
+Dockerfile
+docker-compose.yml
+
+*.txt
+*.set
+*.json
+!requirements.txt
